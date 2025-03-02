@@ -26,3 +26,8 @@ The project is deployed on **Vercel**. You can access it here:
 ## Acknowledgments
 - Powered by [TMDB API](https://www.themoviedb.org/)
 - This product uses the TMDB API but is not endorsed or certified by TMDB.
+
+## Front Home Page
+![Image](https://github.com/theolivecode/MovieSearch/blob/main/MovieHomePage.png)
+## Favorites Page
+![Image](https://github.com/theolivecode/MovieSearch/blob/main/FavoritesScreen.png)
