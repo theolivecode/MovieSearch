@@ -1,12 +1,28 @@
-# React + Vite
+# SearchMovies
+A React-based movie search application using **The Movie Database (TMDB) API**. Users can search for movies, view details, and save favorites.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Deployment
+The project is deployed on **Vercel**. You can access it here:
+[Live Demo](https://searchmovies-xi.vercel.app/)
 
-Currently, two official plugins are available:
+## Tech Stack
+- **Frontend**: React, Vite, JavaScript
+- **State Management**: React Context API 
+- **Styling**: CSS
+- **API**: TMDB API
+- **Deployment**: Vercel
+- **Version Control**: Git, GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+1. Enter a movie title in the search bar to find results.
+2. Click the favorite button to save/remove movies from the favorites list.
 
-## Expanding the ESLint configuration
+## Features
+- **Movie Search**: Fetches and displays movie results from TMDB based on user input.
+- **Popular Movies**: Lists trending movies upon initial load.
+- **Favorites**: Users can save and manage their favorite movies using local storage.
+- **Responsive Design**: Optimized for both desktop and mobile views.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Acknowledgments
+- Powered by [TMDB API](https://www.themoviedb.org/)
+- This product uses the TMDB API but is not endorsed or certified by TMDB.
