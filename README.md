@@ -1,4 +1,4 @@
-# SearchMovies
+# Search Movies
 A React-based movie search application using **The Movie Database (TMDB) API**. Users can search for movies, view details, and save favorites.
 
 ## Deployment
